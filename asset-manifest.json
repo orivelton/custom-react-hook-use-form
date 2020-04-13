@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/custom-react-hook-use-form/static/js/main.e79391f8.chunk.js",
+    "main.js.map": "/custom-react-hook-use-form/static/js/main.e79391f8.chunk.js.map",
+    "runtime-main.js": "/custom-react-hook-use-form/static/js/runtime-main.f3dc19ee.js",
+    "runtime-main.js.map": "/custom-react-hook-use-form/static/js/runtime-main.f3dc19ee.js.map",
+    "static/js/2.74ff18a1.chunk.js": "/custom-react-hook-use-form/static/js/2.74ff18a1.chunk.js",
+    "static/js/2.74ff18a1.chunk.js.map": "/custom-react-hook-use-form/static/js/2.74ff18a1.chunk.js.map",
+    "index.html": "/custom-react-hook-use-form/index.html",
+    "precache-manifest.d5c48b103dd361024afbce9e245ffc47.js": "/custom-react-hook-use-form/precache-manifest.d5c48b103dd361024afbce9e245ffc47.js",
+    "service-worker.js": "/custom-react-hook-use-form/service-worker.js",
+    "static/js/2.74ff18a1.chunk.js.LICENSE.txt": "/custom-react-hook-use-form/static/js/2.74ff18a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3dc19ee.js",
+    "static/js/2.74ff18a1.chunk.js",
+    "static/js/main.e79391f8.chunk.js"
+  ]
+}
